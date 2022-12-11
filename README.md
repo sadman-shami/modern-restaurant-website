@@ -11,7 +11,7 @@
 
 ```sh
 # git clone the repository 🦑
-git clone https://github.com/sadman-shami/modern-retaurant-website.git
+git clone https://github.com/sadman-shami/modern-restaurant-website.git
 cd modern-retaurant-website
 # install dependencies 🧶
 yarn
