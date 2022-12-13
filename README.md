@@ -14,7 +14,12 @@
 git clone https://github.com/sadman-shami/modern-restaurant-website.git
 cd modern-retaurant-website
 # install dependencies 🧶
+
+# yarn
 yarn
+
+# pnpm
+pnpm i
 ```
 
 # Checklist
@@ -28,8 +33,15 @@ When you use this template, update the following:
 
 # Usages
 
+### Yarn
+
 - `yarn start` - starts dev server 🚀
 - `yarn build` - build the project📦
+
+### Pnpm
+
+- `pnpm run start` - starts dev server 🚀
+- `pnpm run build` - build the project📦
 
 # Acknowledge
 
